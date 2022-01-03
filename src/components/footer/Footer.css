@@ -1,0 +1,41 @@
+.footer {
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 5px;
+  margin-bottom: 0px;
+}
+
+.ptag {
+  font-size: 12px;
+}
+
+.back-to-top {
+  margin-left: 95%;
+  display: flex;
+  width: max-content;
+  background-color: #ba68c8;
+  text-align: center;
+  justify-content: center;
+  padding: 5px;
+  color: white;
+  border-radius: 4px;
+  text-decoration: none;
+}
+
+@media only screen and (max-width: 720px) {
+  .back-to-top {
+    margin-left: 70%;
+    display: flex;
+    background-color: #ba68c8;
+    text-align: center;
+    justify-content: center;
+    padding: 6px;
+    color: white;
+    border-radius: 4px;
+    text-decoration: none;
+    margin-top: 15px;
+  }
+}
