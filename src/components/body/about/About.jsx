@@ -1,6 +1,6 @@
 import React from "react";
 import Typical from "react-typical";
-import Social from "../../common/Social";
+import Social from "../../common/SocialIcons";
 import "./About.css";
 
 const About = () => {

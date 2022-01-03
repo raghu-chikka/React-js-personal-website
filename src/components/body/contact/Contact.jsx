@@ -1,7 +1,7 @@
 import React from "react";
 import "./Contact.css";
 import Separator from "../../common/Separator";
-import Social from "../../common/Social";
+import Social from "../../common/SocialIcons";
 import Mailer from "./Mailer";
 
 const Contact = () => {
