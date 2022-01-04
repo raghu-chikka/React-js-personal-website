@@ -29,14 +29,5 @@ export const projectData = [
     github: "https://github.com/raghu-chikka",
     image: require("../../../assets/Project1.png"),
   },
-  {
-    id: 4,
-    title: "Build an app for Wallet to Wallet transfer",
-    about:
-      "When Demonetization of banknotes happen in India, most of the people adopted virtual wallet transfers (like Paytm, Mobikwik). But most of the wallets missing direct wallet to wallet & transferring back to bank from wallet is challenging, need a minimum balance. The leftover amount less than Rs.100/- cannot transfer to bank. So, We build an app to transfer leftover money from one wallet to other so that they can use that amount for like mobile recharging, ordering food, etc. We seen a very good response from users, 5k Downloads & worth 3 Lakhs transactions completed in the span of 3 months, but later due to rules and regulations from RBI we stop that service with an idea to build a great product.",
-    tags: ["React JS", "NPM", "CSS", "HTML"],
-    demo: "#",
-    github: "#",
-    image: require("../../../assets/Project1.png"),
-  },
+  
 ];
